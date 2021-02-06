@@ -1,4 +1,1 @@
-[submodule "private"]
-	path = private
-	url = git@github.com:CartoDB/CartoDB-SQL-API-private.git
-	branch = master
+
